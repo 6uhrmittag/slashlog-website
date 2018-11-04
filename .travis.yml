@@ -6,7 +6,6 @@ python:
 
 
 script:
-    - cd slashlog-website
     - python -m docnado.docnado --html docs --nav_limit taskbutler
 
 deploy:
