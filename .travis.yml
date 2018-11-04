@@ -6,7 +6,7 @@ python:
 
 
 script:
-    - python -m docnado.docnado --html docs --nav_limit taskbutler
+    - docnado --html docs --nav_limit taskbutler
 
 deploy:
   provider: pages
