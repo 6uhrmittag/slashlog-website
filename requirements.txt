@@ -1,2 +1,2 @@
 markdown-magic
-docnado
+git+https://github.com/HEInventions/docnado.git#egg=docnado
