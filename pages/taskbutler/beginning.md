@@ -7,4 +7,7 @@ nav:        Taskbutler>Beginning __1__
 percent:    0
 
 
+# idea
+# 
+# vision
 

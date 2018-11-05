@@ -1,11 +1,11 @@
-title:      Welcome to docnado
-desc:       Getting started using the software.
-date:       2018/08/05
+title:      Slashlog
+desc:       Documenting 
+date:       2018/11/04
 version:    1.0.0
 template:   document
 nav:        Home
 percent:    100
-authors:    enq@heinventions.com
+authors:    marvin@6uhrmittag.de
 
 
 Welcome to the homepage!
