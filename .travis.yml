@@ -4,7 +4,11 @@ sudo: false
 python:
 - "3.6"
 
+#directory that contains the source md
+env:
+- DN_DOCS_DIR=pages
 
+#html -> directory that contains the compiled hml
 script:
     - docnado --html docs --nav_limit taskbutler
 
