@@ -13,7 +13,7 @@ script:
     - docnado --html docs --nav_limit taskbutler,bashblog,admindojo
 
 before_deploy:
-- echo "slashlog.org" > /pages/CNAME
+- echo "slashlog.org" > pages/CNAME
 
 deploy:
   provider: pages
