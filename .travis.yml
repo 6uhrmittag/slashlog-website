@@ -10,7 +10,7 @@ env:
 
 #html -> directory that contains the compiled hml
 script:
-    - docnado --html docs --nav_limit taskbutler
+    - docnado --html docs --nav_limit taskbutler bashblog admindojo
 
 deploy:
   provider: pages
