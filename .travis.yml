@@ -12,6 +12,9 @@ env:
 script:
     - docnado --html docs --nav_limit taskbutler,bashblog,admindojo
 
+before_deploy:
+- echo "slashlog.org" > /pages/CNAME
+
 deploy:
   provider: pages
   skip-cleanup: true
