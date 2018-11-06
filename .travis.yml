@@ -12,10 +12,9 @@ env:
 script:
     - docnado --html docs --nav_limit taskbutler,bashblog,admindojo
 
-before_deploy:
-- echo "slashlog.org" > pages/CNAME
 
 deploy:
+  fqdn: slashlog.org
   provider: pages
   skip-cleanup: true
   local-dir: docs
