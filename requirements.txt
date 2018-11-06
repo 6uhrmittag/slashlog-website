@@ -1,2 +1,3 @@
-markdown-magic
-git+https://github.com/HEInventions/docnado.git#egg=docnado
+#markdown-magic
+git+https://github.com/6uhrmittag/docnado.git
+pymdown-extensions
