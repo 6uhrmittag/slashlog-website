@@ -1,12 +1,11 @@
 title:      
-desc:       tail -f /var/log
+desc:       
 date:       2018/11/08
 version:    1.0.0
 template:   index
 nav:        Home
 percent:    100
 authors:    marvin@6uhrmittag.de
-
 
 # Document, Don't Create
 
